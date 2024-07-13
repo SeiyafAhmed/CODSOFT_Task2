@@ -5,7 +5,7 @@ Welcome to the Arithmetic Calculator project! This application provides a simple
 ## Features
 * **User-Friendly Interface**
 * **Perform basic Arithmetic Operations**
-  * **Dividition:** Enter the numbers and click the divide button.
+  * **Division:** Enter the numbers and click the divide button.
   * **Multiplication:** Enter the numbers and click the multiply button.
   * **Addition**: Enter the numbers and click the add button.
   * **Subtraction**: Enter the numbers and click the subtract button.
