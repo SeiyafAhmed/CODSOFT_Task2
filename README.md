@@ -1,4 +1,4 @@
-# CODSOFT TASK 2: CALCULATOR
+# CALCULATOR
 ## Overview
 Welcome to the Arithmetic Calculator project! This application provides a simple and user-friendly interface for performing basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
@@ -18,7 +18,7 @@ Welcome to the Arithmetic Calculator project! This application provides a simple
 
 1. Clone the repository:
 ```
-git clone https://github.com/SeiyafAhmed/CODSOFT_Task2.git
+git clone https://github.com/SeiyafAhmed/Calculator.git
 ```
 
 2. Install the required libraries:
@@ -39,7 +39,7 @@ python main.py
 
 
 License
-This project is licensed under the MIT License. See the -[LICENSE](https://github.com/SeiyafAhmed/CODSOFT_Task2/blob/main/LICENSE) file for details. 
+This project is licensed under the MIT License. See the -[LICENSE](https://github.com/SeiyafAhmed/Calculator/blob/main/LICENSE) file for details. 
 
 Contact
 For any questions or suggestions, please [contact us](mailto:seiyafahmed.ofc@gmail.com).
